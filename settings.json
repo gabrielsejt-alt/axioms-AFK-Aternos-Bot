@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "axiom5055.aternos.me
-",
+    "ip": "axiom5055.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
